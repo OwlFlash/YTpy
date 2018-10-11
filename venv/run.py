@@ -34,9 +34,8 @@ def cos ():
     print("Cos z run")
 
 """cos() # teraz masz w pliku dwie funkcje 'cos' 1. z pliku run a druga zaimportowana z foo
-# zostanie wyswietlona funkcja ktora zostala ostatnio zadeklarowana lub zaimportowana
+# zostanie wyswietlona funkcja ktora zostala ostatnio zadeklarowana lub zaimportowana"""
 
-"""
 from foo import cos as cos_foo
 
 cos()
